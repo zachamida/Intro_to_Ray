@@ -11,3 +11,5 @@ This tutorial covers the basic principles to start working with [Ray](https://ww
 2. [Simple Parallel Framework](ray_train.ipynb)
 
 3. [Simple RL Framework](ray_rl.ipynb)
+
+For an extensive list of demos check: [anyscale](https://github.com/anyscale/academy/tree/main)
