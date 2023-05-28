@@ -9,7 +9,7 @@ This tutorial covers the basic principles to start working with [Ray](https://ww
 1. [Read/Preprocess Data](ray_data.ipynb)
 
 2. [Simple Parallel Framework](ray_train.ipynb)
-   
+
 3. [Hyperparameters tuning](ray_tune.ipynb)
 
 4. [Simple RL Framework](ray_rl.ipynb)
